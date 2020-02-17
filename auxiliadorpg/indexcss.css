@@ -1,0 +1,71 @@
+	@media screen and (min-width: 100px) and (max-width: 990px) {
+		h2 {font-size: 1.5rem;}
+		h3 {font-size: 1.5rem;}
+		h1.titleResponsive {font-size: 2.3rem;}
+		p.fonte-subtitulo {font-size: 1.3rem;}
+		p.fonte-texto {font-size: 1.1rem;}
+	}
+
+	@media (min-width: 992px) {
+		.NavbarBG {background-color: rgba(28,28,28,1);}
+	}
+
+
+/*  NAVBAR  */
+
+	.NavbarBG {width: 100%; background-color: rgba(28,28,28,0.8);}
+
+	
+
+/*  INICIAL APRESENTAÇÃO  */
+
+* {margin: 0; padding: 0;
+    }
+
+    body {font-family: 'Raleway', sans-serif; background-color: rgb(17, 20, 19);
+    }
+
+    h1 {font-size: 4rem;
+    }
+
+    section {display: table; width: 100%;
+    }
+
+    .height-90 {height: 100%; width: 100%;
+    }
+
+    .height-100 {height: 100%; width: 100%; background-image: url(Imagens/bg2.jpg); background-repeat: no-repeat;
+    }
+
+    .outradiv {color: #FFFFFF; vertical-align: middle; padding: 19.3%; font-size: 30px;
+    }
+
+
+/*  FOOTER CREDITOS  */
+
+	.divCreditos {padding: 10px; 
+	}
+
+	.texto_centro {vertical-align: middle; color: black;
+	}
+
+
+/*  O QUE É RPG  */
+
+	.titleResponsive {font-size: 4rem; text-shadow: 1px 1px 2px black;
+	}
+
+	.jumbotron-margin {margin: 5% 10% 0% 10%; background-color:rgba(31,205,91, 0.9);
+	}
+
+	.fonte-texto {font-size: 1.7em;
+	}
+
+	.fonte-subtitulo {font-family: 'Permanent Marker', cursive; font-size: 2rem;
+	}
+
+	.imagemdice {width: 560px; height: 300px; border-radius: 35px; 
+	}
+
+	.formt {text-shadow: 1px 1px 2px black; padding: 2% 6% 2% 6%; font-size: 20px;
+	}
